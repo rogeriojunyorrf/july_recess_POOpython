@@ -36,10 +36,9 @@ july_recess_POOpython/
 │   ├── revisao.py                      # Quick review of learned concepts
 │   ├── user_classmethod.py             # Studied class methods in Python
 │   └── veiculo.py                      # Practice: simulated a vehicle and its behaviors
+│
 └── README.md                           # Project documentation and instructions
 
-│
-└── README.md
 `````
 ## Instalation
 
