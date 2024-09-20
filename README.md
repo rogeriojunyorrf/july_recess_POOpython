@@ -20,7 +20,7 @@ july_recess_POOpython/
 │   ├── __pycache/
 │   ├── agenda.py                       # Practice: developed a agenda system with a user menu
 │   ├── basededados_public_protected_private.py  # Studied encapsulation concepts (public, protected, private)
-│   ├── calculator.py                   # Created a simple calculator system
+│   ├── calculator.py                   # Practice: created a simple calculator system
 │   ├── classes_agragacao.py            # Explored the concept of class aggregation
 │   ├── classes_associacao.py           # Explored the concept of class association
 │   ├── classes_composicao.py           # Explored the concept of class composition
