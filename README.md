@@ -45,5 +45,5 @@ july_recess_POOpython/
 To get started with the experiments, clone the repository and install any required dependencies:
 
 ```bash
-git clone https://github.com/junyorrf/july_recess_POOpython.git
+git clone https://github.com/rogeriojunyorrf/july_recess_POOpython.git
 ```
